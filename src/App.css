@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins:ital,wght@0,400;0,500;0,600;1,200&family=REM&family=Raleway&family=Roboto+Slab:wght@200&family=Ysabeau+Office&display=swap');
+*{
+    font-family: 'Ysabeau Office', sans-serif;
+}
+.padset{
+    
+}
+input{
+    background-color: transparent;
+    border: 0px solid;
+   
+    color: #CCC;
+    border-bottom: 1px solid;
+    transition: 0.9s;
+}
+input:focus{
+ width: 60% !important;
+ 
+ outline: aqua;
+}
+input::placeholder{
+    text-align: center;
+}
+span{
+    color: red;
+}
