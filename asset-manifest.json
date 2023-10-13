@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/aniketpardhi/React-Session1.git/static/css/main.31d6cfe0.css",
+    "main.js": "/aniketpardhi/React-Session1.git/static/js/main.6728cf09.js",
+    "static/js/787.8f645795.chunk.js": "/aniketpardhi/React-Session1.git/static/js/787.8f645795.chunk.js",
+    "index.html": "/aniketpardhi/React-Session1.git/index.html",
+    "main.6728cf09.js.map": "/aniketpardhi/React-Session1.git/static/js/main.6728cf09.js.map",
+    "787.8f645795.chunk.js.map": "/aniketpardhi/React-Session1.git/static/js/787.8f645795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.6728cf09.js"
+  ]
+}
