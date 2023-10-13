@@ -1,15 +1,18 @@
+import Nav from "./components/Nav/Nav"
 
-import React from "react";
-import "./App.css";
-import Calci from "./components/Calci";
-
-
+import UseEffect from "./components/Hooks/UseEffect";
+import Usesstate from "./components/Hooks/Usesstate";
+import Search2 from "./components/Search2";
+import Gallary from "./ApiExercise/Gallary";
 function App() {
+ 
 
   return (
     <>
-  
-<Calci/>
+    
+ <Gallary/>
+
+
     </>
   );
 }

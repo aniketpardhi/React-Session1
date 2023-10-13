@@ -31,8 +31,8 @@ const Calci = () => {
    
   };
   const division=()=>{
-    const number1 = Number(num1);
-    const number2 = Number(num2);
+    const number1 = parseInt(num1);
+    const number2 = parseInt(num2);
     const product = number1 / number2;
 
     setresult(number1 !== 0 && number2 !== 0 ? `Multiplication of two numbers is ${product}` : <span>Please enter numbers</span>);

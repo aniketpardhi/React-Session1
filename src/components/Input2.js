@@ -18,9 +18,9 @@ const Input2 = () => {
       />
       
       <p>{user.length}</p>
-      <p>{user.toUpperCase()}</p>
+      <p>{user}</p>
 
-      <p>{user.length == 0 ? (<span>{user}</span> ): <span>{user}</span>}</p>
+    
 
       <p>{user.length}</p>
      {status==0 && <span>Enter value</span>}
